@@ -1,0 +1,9 @@
+{
+  "name": "getvapro",
+  "description": "VA PRO promotiona;",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.18.0"
+  }
+}
